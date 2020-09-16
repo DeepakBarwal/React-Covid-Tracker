@@ -1,4 +1,4 @@
-#Covid-Tracker in React
+Covid-Tracker in React
 
 Used: React, Charts.JS and Material UI.
 
