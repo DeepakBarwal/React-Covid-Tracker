@@ -1,6 +1,6 @@
-#Covid-Tracker in React
+# Covid-Tracker in React
 
-##Live Site: https://vibrant-villani-ba7c60.netlify.app/
+## Live Site: https://vibrant-villani-ba7c60.netlify.app/
 
 Used: React, Charts.JS and Material UI.
 
